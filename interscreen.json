@@ -1,0 +1,20 @@
+{
+    "colors": [
+        "#000000",
+        "#00FF00",
+        "#010101",
+        "#FFFFFF"
+    ], 
+    "values": [
+        0,
+        10000,
+        10001,
+        4294967295
+    ],
+    "fullscreen": true,
+    "stats": false,
+    "control": false,
+    "history": false,
+    "software": false,
+    "hardware": false
+}
